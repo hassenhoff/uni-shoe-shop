@@ -1,0 +1,16 @@
+#footer * {
+  text-decoration: none;
+  color: #cacaca;
+}
+
+#footer *:visited {
+  color: #cacaca;
+}
+
+#footer a:hover {
+  color: cadetblue;
+}
+
+#footer a:active {
+  color: tomato;
+}
